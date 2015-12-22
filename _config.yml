@@ -1,0 +1,28 @@
+name: TheFlyingKiwi
+favicon: null
+layout_spectrum: 0.2965636905282736
+typography_spectrum: 0.14263173402287066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2492416158784181
+  lightness: 0.3485862514935434
+  saturation: 0.5215781261213124
+  rhythmicContrast: 0.8541227388195693
+purpose: []
